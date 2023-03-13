@@ -28,3 +28,16 @@ In our work, we proposed a hybrid deep network approach for chart-to-text genera
 
 ## Members
 
+Nontaporn Wonglek
+
+Siriwalai Maneesinthu
+
+Sivakorn Srichaiyaperk
+
+Teerapon Saengmuang
+
+## Advisor
+
+Thitirat Siriborvornratanakul
+
+
