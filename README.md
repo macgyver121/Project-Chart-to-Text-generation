@@ -1,6 +1,6 @@
 # Project-Chart-to-Text-generation with hybrid deep network
 
-This study is part of the DADS7202 Deep Learning course. Graduate School of Applied Statistics, National Institute of Development Administration (NIDA). Advisor is Asst. Prof. Thitirat Siriborvornratanakul
+This study is part of the DADS7202 Deep Learning course. Graduate School of Applied Statistics, National Institute of Development Administration (NIDA). Advisor is Asst. Prof. Thitirat Siriborvornratanakul.
 
 ## Introduction
 
